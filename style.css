@@ -270,6 +270,9 @@
     .soicon{
         display: flex;
     }
+    .theimgt{
+        height:700px;
+    }
 }
 @media screen and (max-width: 740px) {
     .cardcon{
