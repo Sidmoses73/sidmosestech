@@ -262,6 +262,7 @@
         font-size: 11px;
         position: relative;
         top: -7px;
+        margin:3px;
     }
     .search{
         display: none;
