@@ -263,6 +263,7 @@
         position: relative;
         top: -7px;
         padding:10px 12px;
+        margin-left:2px;
     }
     .search{
         display: none;
@@ -299,6 +300,7 @@
         position: relative;
         top: -15px;
          padding:10px 12px;
+        margin-left:2px;
         
     }
     .contact{
