@@ -1,0 +1,32 @@
+/* Style for the sticky header */
+.sticky-header {
+    background-color:rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 10px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+    z-index: 100;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Style for the content below the header */
+  .content {
+    padding: 50px;
+    margin-top: 100px; /* Ensure content appears below the sticky header */
+  }
+  
+  /* Style for the sticky header when scrolling */
+  .sticky-header.scrolled {
+    background-color:rgba(20, 20, 68, 0.8);
+  }
+  @media screen and (max-width: 740px) {
+    .sticky-header{
+      background-color: rgba(0, 0, 0, 0.4);
+    }
+    .sticky-header.scrolled{
+      background-color: rgba(17, 17, 75, 0.4);
+    }
+  }

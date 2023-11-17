@@ -1,0 +1,31 @@
+
+.slideshow {
+    width:100%;
+    height: 600px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .slide {
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+  }
+  
+  .slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .active {
+    display: block;
+  }
+  /* Reset some default styles */
+body, h1, h2, p {
+  margin: 0;
+  padding: 0;
+}
+
+
