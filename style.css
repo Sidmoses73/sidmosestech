@@ -279,6 +279,7 @@
     .imagetext{
         display: flex;
         flex-direction: column;
+        width:100%;
     }
     .pricingcontent{
         display: flex;
