@@ -185,6 +185,7 @@
     color: #CB171C;
     font-size: 20px;
     margin-bottom: 15px;
+    paddling:10px;
 }
 .pricingcontent{
     display: flex;
