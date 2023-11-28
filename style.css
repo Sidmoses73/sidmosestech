@@ -104,6 +104,7 @@
     color: #CB171C;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
+    paddling:7px;
 }
 .cardtext p{
     text-align: center;
