@@ -244,6 +244,11 @@
     .cardcon{
         display: flex;
         flex-direction: column;
+        paddling:10px;
+    }
+    .cardtext p{
+    text-align: center;
+    padding: 10px;
     }
     .imagetext{
         display: flex;
