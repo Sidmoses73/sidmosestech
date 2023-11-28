@@ -254,6 +254,10 @@
         display: flex;
         flex-direction: column;
     }
+    .theimgt{
+    width: 100%;
+    height: auto;
+}
     .pricingcontent{
         display: flex;
         flex-direction: column;
