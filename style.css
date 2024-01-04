@@ -253,6 +253,14 @@
     .cardtext h3{
         padding:10px;
     }
+    .imgt{
+    flex-basis: 50%;
+    margin-bottom: -4px;
+}
+.textimg{
+    flex-basis: 50%;
+    padding: 10px;
+}
     .imagetext{
         display: flex;
         flex-direction: column;
