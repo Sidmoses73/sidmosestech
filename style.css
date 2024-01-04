@@ -253,7 +253,7 @@
     .cardtext p{
     text-align: center;
     padding: 12px;
-    font-size:14px;
+    font-size:12px;
     }
     .cardtext h3{
         padding:12px;
@@ -313,7 +313,7 @@
     .cardtext p{
     text-align: center;
     padding: 12px;
-    font-size:14px;
+    font-size:12px;
 }
     .imagetext{
         display: flex;
