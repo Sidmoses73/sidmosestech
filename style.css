@@ -303,8 +303,12 @@
         flex-direction: column;
     }
     .cardtext h3{
-        padding:10px;
+        padding:12px;
     }
+    .cardtext p{
+    text-align: center;
+    padding: 12px;
+}
     .imagetext{
         display: flex;
         flex-direction: column;
