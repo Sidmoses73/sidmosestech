@@ -75,7 +75,7 @@
 }
 .cardcon{
     display: flex;
-    padding: 15px;
+    padding:;
 }
 .card{
     flex-basis: 40%;
