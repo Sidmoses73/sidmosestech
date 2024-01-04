@@ -247,7 +247,7 @@
     .cardcon{
         display: flex;
         flex-direction: column;
-        paddling:10px;
+        padding:10px;
     }
     .cardtext p{
     text-align: center;
