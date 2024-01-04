@@ -257,6 +257,9 @@
     .cardtext h3{
         padding:10px;
     }
+    .cardim{
+        width:100%;
+    }
     .imgt{
     flex-basis: 50%;
     margin-bottom: -4px;
