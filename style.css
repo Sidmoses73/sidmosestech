@@ -305,7 +305,7 @@
     }
     .cardcon{
         display: flex;
-        flex-direction: column;
+        flex-direction:row;
     }
     .cardtext h3{
         padding:12px;
