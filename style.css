@@ -108,7 +108,7 @@ body{
     color: #CB171C;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
-    paddling:7px;
+    paddling:10px;
 }
 .cardtext p{
     text-align: center;
@@ -252,7 +252,10 @@ body{
     }
     .cardtext p{
     text-align: center;
-    padding: 10px;
+    padding: 12px;
+    }
+    .cardtext h3{
+        padding:10px;
     }
     .imagetext{
         display: flex;
