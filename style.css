@@ -288,6 +288,9 @@ body{
     }
 }
 @media screen and (max-width: 740px) {
+    .card{
+        flex-basis:40%;
+    }
     .cardcon{
         display: flex;
         flex-direction: column;
