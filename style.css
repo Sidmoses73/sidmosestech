@@ -292,6 +292,9 @@ body{
         display: flex;
         flex-direction: column;
     }
+    .cardtext h3{
+        padding:10px;
+    }
     .imagetext{
         display: flex;
         flex-direction: column;
