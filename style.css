@@ -250,6 +250,7 @@
         padding:10px;
     }
     .cardtext p{
+    display:none;
     text-align: center;
     padding: 12px;
     font-size:10px;
