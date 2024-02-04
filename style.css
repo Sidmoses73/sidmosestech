@@ -163,7 +163,7 @@
     height:auto ;
 }
 .testi{
-    flex-basis: 40%;
+    flex-basis: 33%;
 }
 .testi span{
     font-size: 20px;
@@ -273,11 +273,11 @@
         flex-direction: column;
     }
     .testi{
-    flex-basis: 40%;
+    flex-basis: 33%;
     
     .testimonials{
         display:flex;
-        flex-direction: column; 
+        flex-direction:column; 
     }
     .nav{
         display: flex;
@@ -318,7 +318,7 @@
         flex-direction: column;
     }
     .testi{
-    flex-basis: 40%;
+    flex-basis: 33%;
 }
     .testimonials{
         display: flex;
@@ -361,7 +361,7 @@
         flex-direction: column;
     }
     .testi{
-    flex-basis:40%;
+    flex-basis:33%;
 }
     .testimonials{
         display: flex;
@@ -420,7 +420,7 @@
         width:100%;
     }
 .testi{
-    width:40%;
+    width:100%;
     height:auto;
         
 }
