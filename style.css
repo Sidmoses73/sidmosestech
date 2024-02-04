@@ -346,6 +346,7 @@
         flex-basis:40%;
     }
     .cardcon{
+        display:flex;
         flex-direction:column;
     }
     .cardtext p{
@@ -360,7 +361,7 @@
         flex-direction: column;
     }
     .testi{
-    flex-basis: 33.3%;
+    flex-basis:40%;
 }
     .testimonials{
         display: flex;
@@ -419,7 +420,7 @@
         width:100%;
     }
 .testi{
-    width:100%;
+    width:40%;
     height:auto;
         
 }
