@@ -173,10 +173,11 @@
     text-align: center;
 }
 .testiimg{
-    display: block;
     margin: 0 auto;
     border-radius: 50%;
     border: 2px solid navy;
+    width:100%;
+    height:auto:
 }
 .pricingtext h1{
     text-align: center;
@@ -278,10 +279,6 @@
     .testimonials{
         display: flex;
         flex-direction: column;
-    }
-    .testiimg{
-        width:100%;
-        height:auto;
     }
     .nav{
         display: flex;
