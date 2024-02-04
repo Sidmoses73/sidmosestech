@@ -274,6 +274,9 @@
         display:;
         flex-direction: column;
     }
+    .testi{
+    flex-basis: 33.3%;
+}
     .testimonials{
         display: flex;
         flex-direction: column;
@@ -315,6 +318,9 @@ flex-basis: 40%;
         display: flex;
         flex-direction: column;
     }
+    .testi{
+    flex-basis: 33.3%;
+}
     .testimonials{
         display: flex;
         flex-direction:row;
@@ -355,6 +361,9 @@ flex-basis: 40%;
         display: flex;
         flex-direction: column;
     }
+    .testi{
+    flex-basis: 33.3%;
+}
     .testimonials{
         display: flex;
         flex-direction: column;
