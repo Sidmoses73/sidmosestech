@@ -90,9 +90,9 @@
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 2);
 }
 .cardim{
-    display: block;
     margin: 0 auto;
     width: 100%;
+    height:auto;
 }
 .cardtext a{
     text-decoration: none;
@@ -248,7 +248,6 @@
     .cardcon{
         display: flex;
         flex-direction: column;
-        padding:10px;
     }
     .cardtext p{
     text-align: center;
@@ -309,7 +308,7 @@
         flex-direction:column;
     }
     .card{
-        flex-basis:100%;
+        flex-basis:40%;
     }
     .cardtext p{
         font-size: 14px;
@@ -349,7 +348,7 @@
         flex-direction:column;
     }
     .card{
-        flex-basis:100%;
+        flex-basis:40%;
     }
     .cardtext p{
         font-size: 14px;
@@ -422,9 +421,6 @@
     .testi{
         width:100%;
         height:auto;
-    }
-    .footer{
-        width:100%;
     }
 }
 .pageheader{
