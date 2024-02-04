@@ -409,9 +409,8 @@ flex-basis: 40%;
         width: 100%;
     }
     .testi{
-        width:100%;
-        height:auto;
-    }
+    flex-basis: 33.3%;
+}
 }
 .pageheader{
     text-align: center;
