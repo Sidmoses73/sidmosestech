@@ -245,6 +245,7 @@
 @media screen and (max-width: 360px) {
     .card{
         flex-basis:40%;
+        padding:10px;
     }
     .cardcon{
         display: flex;
@@ -301,7 +302,8 @@
 }
 @media screen and (max-width: 481px ) {
     .card{
-flex-basis: 40%;
+        flex-basis: 40%;
+        padding:10px;
 }
     .cardcon{
         display: flex;
@@ -345,6 +347,7 @@ flex-basis: 40%;
 @media screen and (max-width: 770px) {
     .card{
         flex-basis:40%;
+        padding:10px;
     }
     .cardcon{
         display: flex;
