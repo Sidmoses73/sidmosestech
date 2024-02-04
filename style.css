@@ -17,6 +17,9 @@
 .logonav{
     display: flex;
 }
+.slideshow{
+    width:100%;
+}
 .nav{
     flex-basis: 90%;
     padding-top: 30px;
@@ -75,7 +78,6 @@
 }
 .cardcon{
     display: flex;
-    padding:;
 }
 .card{
     flex-basis: 40%;
@@ -114,7 +116,7 @@
 .sidtech{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-bottom: 10px;
+    margin-bottom:;
 }
 .imagetext{
     display: flex;
@@ -241,10 +243,8 @@
 @media screen and (max-width: 360px) {
     .card{
         flex-basis:40%;
-        padding:10px;
     }
     .cardcon{
-        display: flex;
         flex-direction: column;
     }
     .cardtext p{
@@ -302,7 +302,6 @@
         padding:10px;
 }
     .cardcon{
-        display: flex;
         flex-direction:column;
     }
     .cardtext p{
@@ -343,10 +342,8 @@
 @media screen and (max-width: 770px) {
     .card{
         flex-basis:40%;
-        padding:10px;
     }
     .cardcon{
-        display: flex;
         flex-direction:column;
     }
     .cardtext p{
@@ -391,9 +388,12 @@
     .logonav{
         width: 100%;
     }
+    .slideshow{
+        width:100%;
+    }
     .card{
         width:100%;
-        height:auto;
+        width:auto;
     }
     .cardcon{
         width: 100%;
