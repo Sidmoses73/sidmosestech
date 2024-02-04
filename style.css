@@ -177,7 +177,7 @@
     border-radius: 50%;
     border: 2px solid navy;
     width:100%;
-    height:auto:
+    height:auto;
 }
 .pricingtext h1{
     text-align: center;
@@ -243,6 +243,9 @@
     text-align: center;
 }
 @media screen and (max-width: 360px) {
+    .card{
+        flex-basis:40%;
+    }
     .cardcon{
         display: flex;
         flex-direction: column;
@@ -254,10 +257,6 @@
     }
     .cardtext h3{
         padding:12px;
-    }
-    .cardim{
-        width:100%;
-        height:auto;
     }
     .imgt{
     flex-basis: 50%;
@@ -298,6 +297,9 @@
     }
 }
 @media screen and (max-width: 481px ) {
+    .card{
+flex-basis: 40%;
+}
     .cardcon{
         display: flex;
         flex-direction:column;
@@ -335,6 +337,9 @@
 }
 
 @media screen and (max-width: 770px) {
+    .card{
+        flex-basis:40%;
+    }
     .cardcon{
         display: flex;
         flex-direction:column;
@@ -377,10 +382,6 @@
 @media only screen and (max-width: 1025px) {
     .logonav{
         width: 100%;
-    }
-    .cardim{
-        width:100%;
-        height:auto;
     }
     .card{
         width:100%;
