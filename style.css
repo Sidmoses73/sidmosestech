@@ -407,8 +407,7 @@
         height:auto;
     }
     .imagetext{
-        display:flex;
-        flex-direction:column;
+        width:100%;
     }
     .pricingcontent{
         width: 100%;
@@ -421,7 +420,7 @@
         width: 100%;
     }
     .testi{
-    flex-basis: 33.3%;
+    width:90%;
 }
 }
 .pageheader{
