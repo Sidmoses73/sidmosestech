@@ -269,7 +269,7 @@
         flex-direction: column;
     }
     .pricingcontent{
-        display:;
+        display:flex;
         flex-direction: column;
     }
     .testi{
