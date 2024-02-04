@@ -395,7 +395,7 @@
     }
     .card{
         width:100%;
-        width:auto;
+        height:auto;
     }
     .cardcon{
         width: 100%;
