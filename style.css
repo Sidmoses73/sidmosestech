@@ -386,6 +386,14 @@
     .logonav{
         width: 100%;
     }
+    .cardim{
+        width:100%;
+        height:auto;
+    }
+    .card{
+        display:flex;
+        flex-basis:40%;
+    }
     .cardcon{
         width: 100%;
     }
