@@ -245,6 +245,7 @@
         flex-basis:40%;
     }
     .cardcon{
+        display:flex;
         flex-direction: column;
     }
     .cardtext p{
@@ -302,6 +303,7 @@
         padding:10px;
 }
     .cardcon{
+        display:flex;
         flex-direction:column;
     }
     .cardtext p{
