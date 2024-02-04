@@ -259,6 +259,7 @@
     }
     .cardim{
         width:100%;
+        height:auto;
     }
     .imgt{
     flex-basis: 50%;
