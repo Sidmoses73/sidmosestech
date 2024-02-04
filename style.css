@@ -321,7 +321,7 @@
 }
     .testimonials{
         display: flex;
-        flex-direction:row;
+        flex-direction:column;
     }
     .nav{
         display: flex;
@@ -413,10 +413,10 @@
         height:auto;
     }
     .testimonials{
-        width: 100%;
+        width:100%;
     }
     .testi{
-    width:33.3%;
+    width:90%;
 }
 }
 .pageheader{
