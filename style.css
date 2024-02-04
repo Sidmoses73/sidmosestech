@@ -241,7 +241,7 @@
     padding: 12px 14px;
     text-align: center;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 360px) {
     .card{
         flex-basis:40%;
     }
@@ -299,22 +299,57 @@
         display: flex;
     }
 }
-@media screen and (max-width: 1024px) {
-    .card{
-        flex-basis:40%;
-    }
+@media screen and (max-width: 481px ) {
     .cardcon{
         display: flex;
         flex-direction:column;
     }
-    .cardtext h3{
-        padding:12px;
+    .card{
+        flex-basis:100%;
     }
     .cardtext p{
-    text-align: center;
-    padding: 12px;
-    font-size:12px;
+        font-size: 14px;
+    }
+    .imagetext{
+        display: flex;
+        flex-direction: column;
+    }
+    .pricingcontent{
+        display: flex;
+        flex-direction: column;
+    }
+    .testimonials{
+        display: flex;
+        flex-direction:row;
+    }
+    .nav{
+        display: flex;
+    }
+    .nav a{
+        margin-top: 0;
+        font-size: 12px;
+        position: relative;
+        top: -7px;
+    }
+    .search{
+        display: none;
+    }
+    .soicon{
+        display: flex;
+    }
 }
+
+@media screen and (max-width: 770px) {
+    .cardcon{
+        display: flex;
+        flex-direction:column;
+    }
+    .card{
+        flex-basis:100%;
+    }
+    .cardtext p{
+        font-size: 14px;
+    }
     .imagetext{
         display: flex;
         flex-direction: column;
@@ -334,11 +369,9 @@
         display: none;
     }
     .nav a{
-        font-size: 11px;
+        font-size: 12px;
         position: relative;
         top: -15px;
-         padding:10px 12px;
-        margin-left:2px;
         
     }
     .contact{
@@ -347,6 +380,23 @@
     }
     .soicon{
         display: flex;
+    }
+}
+@media only screen and (max-width: 1025px) {
+    .logonav{
+        width: 100%;
+    }
+    .cardcon{
+        width: 100%;
+    }
+    .imagetext{
+        width: 100%;
+    }
+    .pricingcontent{
+        width: 100%;
+    }
+    .testimonials{
+        width: 100%;
     }
 }
 .pageheader{
