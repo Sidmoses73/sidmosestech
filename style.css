@@ -119,8 +119,6 @@
 .imagetext{
     display: flex;
     background-color: skyblue;
-    width: 100%;
-    height: auto;
 }
 .imgt{
     flex-basis: 50%;
@@ -176,8 +174,6 @@
     margin: 0 auto;
     border-radius: 50%;
     border: 2px solid navy;
-    width:100%;
-    height:auto;
 }
 .pricingtext h1{
     text-align: center;
