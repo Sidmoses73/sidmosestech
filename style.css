@@ -397,6 +397,10 @@
     .cardcon{
         width: 100%;
     }
+    .textimg{
+        width: 100%;
+        height:auto;
+    }
     .imagetext{
         width: 100%;
     }
