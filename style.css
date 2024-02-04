@@ -121,8 +121,7 @@
     background-color: skyblue;
 }
 .imgt{
-    flex-basis: 50%;
-    margin-bottom: -4px;
+    flex-basis:50%;
 }
 .textimg{
     flex-basis: 50%;
@@ -138,6 +137,7 @@
     text-align:center;
     margin-top: 15px;
     font-size: 20px;
+    paddling:10px;
 }
 .theimgt{
     width: 100%;
