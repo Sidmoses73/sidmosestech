@@ -120,6 +120,9 @@
 .imagetext{
     display: flex;
     background-color: skyblue;
+    width: 100%;
+    height: auto;
+    margin: 8px;
 }
 .imgt{
     flex-basis:50%;
@@ -132,11 +135,13 @@
     color: white;
     text-shadow: 1px 1px black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
 }
 .imagetext p{
     text-align:center;
     margin-top: 15px;
     font-size: 20px;
+    padding: 15px;
 }
 .theimgt{
     width: 100%;
