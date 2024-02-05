@@ -257,10 +257,7 @@
     flex-basis: 50%;
     margin-bottom: -4px;
 }
-.textimg{
-    flex-basis: 50%;
-    padding: 10px;
-}
+
     .imagetext{
         display: flex;
         flex-direction: column;
@@ -269,9 +266,6 @@
     .pricingcontent{
         display:flex;
         flex-direction: column;
-    }
-    .testi{
-    flex-basis: 33%;
     }
     .testimonials{
         display:flex;
@@ -312,9 +306,6 @@
         display: flex;
         flex-direction: column;
     }
-    .testi{
-    flex-basis: 33%;
-}
     .testimonials{
         display: flex;
         flex-direction:column;
@@ -353,9 +344,6 @@
         display: flex;
         flex-direction: column;
     }
-    .testi{
-    flex-basis:33%;
-}
     .testimonials{
         display: flex;
         flex-direction: column;
