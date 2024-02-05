@@ -387,7 +387,9 @@
     .slideshow{
         width:100%;
     }
-    
+    .card{
+        flex-basis:100%;
+    }
     .cardcon{
         width: 100%;
     }
