@@ -130,7 +130,6 @@
 .imagetext h1{
     text-align: center;
     color: white;
-    padding:5px;
     text-shadow: 1px 1px black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -138,7 +137,6 @@
     text-align:center;
     margin-top: 15px;
     font-size: 20px;
-    padding:5px
 }
 .theimgt{
     width: 100%;
