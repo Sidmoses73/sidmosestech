@@ -156,7 +156,6 @@
     display: flex;
     border: 1px solid #ccc;
     background-color: #eee;
-    padding: 10px;
     margin: 10px 0;
     height:auto ;
 }
@@ -189,10 +188,9 @@
 }
 .pricingcontent{
     display: flex;
-    padding: 10px;
 }
 .pricingtable{
-    flex-basis: 33.3%;
+    flex-basis: 33%;
     padding: 8px;
     text-align: center;
     border: 1px solid #ccc;
