@@ -241,9 +241,7 @@
     text-align: center;
 }
 @media screen and (max-width: 360px) {
-    .card{
-        flex-basis:33%;
-    }
+    
     .cardcon{
         display:flex;
         flex-direction: column;
@@ -298,10 +296,7 @@
     }
 }
 @media screen and (max-width: 481px ) {
-    .card{
-        flex-basis: 33%;
-        padding:10px;
-}
+ 
     .cardcon{
         display:flex;
         flex-direction:column;
@@ -342,9 +337,7 @@
 }
 
 @media screen and (max-width: 770px) {
-    .card{
-        flex-basis:33%;
-    }
+    
     .cardcon{
         display:flex;
         flex-direction:column;
@@ -394,10 +387,7 @@
     .slideshow{
         width:100%;
     }
-    .card{
-        width:100%;
-        height:auto;
-    }
+    
     .cardcon{
         width: 100%;
     }
