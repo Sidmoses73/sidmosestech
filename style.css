@@ -376,7 +376,8 @@
         width:100%;
     }
     .card{
-        flex-basis:40%;
+        width:100%;
+        height:auto;
     }
     .cardcon{
         width: 100%;
