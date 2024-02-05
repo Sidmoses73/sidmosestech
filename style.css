@@ -120,8 +120,6 @@
 .imagetext{
     display: flex;
     background-color: skyblue;
-    margin:15px;
-    margin:30px;
 }
 .imgt{
     flex-basis:50%;
