@@ -385,8 +385,7 @@
         height:auto;
     }
     .imagetext{
-        display:flex;
-        flex-direction:column;
+        width:100%
     }
     .pricingcontent{
         width: 100%;
