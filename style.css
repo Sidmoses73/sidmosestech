@@ -78,9 +78,10 @@
 }
 .cardcon{
     display: flex;
+    padding:15px;
 }
 .card{
-    flex-basis: 33%;
+    flex-basis: 40%;
     margin: 15px;
     margin:30px ;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 2);
