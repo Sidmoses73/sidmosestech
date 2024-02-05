@@ -78,11 +78,11 @@
 }
 .cardcon{
     display: flex;
-    padding:15px;
+    padding:10px;
 }
 .card{
     flex-basis: 40%;
-    margin: 15px;
+    margin: 10px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 2);
     transition: 0.3s;
     border-radius: 5px;
@@ -119,6 +119,7 @@
 .imagetext{
     display: flex;
     background-color: skyblue;
+    padding:10px;
 }
 .imgt{
     flex-basis:50%;
@@ -156,8 +157,8 @@
     display: flex;
     border: 1px solid #ccc;
     background-color: #eee;
-    padding: 16px;
-    margin: 16px 0;
+    padding: 10px;
+    margin: 10px 0;
     height:auto ;
 }
 .testi{
@@ -171,7 +172,7 @@
     text-align: center;
 }
 .testiimg{
-    margin:0 auto;
+
     border-radius: 50%;
     border: 2px solid navyblue;
 }
@@ -246,7 +247,7 @@
     }
     .cardtext p{
     text-align: center;
-    padding: 12px;
+    padding: 10px;
     font-size:12px;
     }
     .cardtext h3{
@@ -263,6 +264,7 @@
     .imagetext{
         display: flex;
         flex-direction: column;
+        padding:10px;
     }
     .pricingcontent{
         display:flex;
