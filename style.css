@@ -338,7 +338,7 @@
 
 @media screen and (max-width: 770px) {
    .card{
-       flex-basis:;
+       flex-basis:40%;
    }
     .cardcon{
         display:flex;
@@ -391,6 +391,7 @@
     }
     .card{
         width:100%;
+        height:auto;
     }
     .cardcon{
         width: 100%;
@@ -413,7 +414,7 @@
     .testimonials{
         width:100%;
     }
-.testi{
+    .testi{
     width:100%;
     height:auto;
         
