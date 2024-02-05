@@ -119,7 +119,6 @@
 .imagetext{
     display: flex;
     background-color: skyblue;
-    padding:10px;
 }
 .imgt{
     flex-basis:50%;
