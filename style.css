@@ -265,12 +265,11 @@
         flex-direction: column;
     }
     .pricingcontent{
-        display:flex;
-        flex-direction: column;
+        display:block;
     }
     .testimonials{
         display:flex;
-        flex-direction:column; 
+        flex-direction:row; 
     }
     .nav{
         display: flex;
@@ -304,12 +303,11 @@
         flex-direction: column;
     }
     .pricingcontent{
-        display: flex;
-        flex-direction: column;
+        display:block;
     }
     .testimonials{
         display: flex;
-        flex-direction:column;
+        flex-direction:row;
     }
     .nav{
         display: flex;
@@ -342,8 +340,7 @@
         flex-direction: column;
     }
     .pricingcontent{
-        display: flex;
-        flex-direction: column;
+        display:block;
     }
     .testimonials{
         display: flex;
